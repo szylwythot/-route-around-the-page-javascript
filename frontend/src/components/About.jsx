@@ -3,7 +3,7 @@ import Layout from './Layout';
 
 function About() {
   return (
-    <Layout>About us...</Layout>
+    <Layout> This is the about page</Layout>
   )
 }
 

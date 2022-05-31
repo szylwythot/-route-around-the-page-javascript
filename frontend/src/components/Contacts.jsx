@@ -3,7 +3,7 @@ import Layout from './Layout';
 
 function Contacts() {
   return (
-    <Layout>Contacts...</Layout>
+    <Layout>This is the contacts page</Layout>
   )
 }
 
